@@ -1,3 +1,3 @@
-module github.com/leprosus/golang-tts
+module github.com/eivindam/golang-tts
 
 go 1.14
